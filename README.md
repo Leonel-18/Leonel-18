@@ -39,7 +39,8 @@ In addition to my work experience, I've participated in and won notable competit
 
 - **Winner**: Rally Latinoamericano 2024
 - **Publications**: Featured in Mendoza newspapers (Argentina) and searchable on Google as **Leonel Álamo**
-![Certificación]([https://github.com/usuario/repositorio/blob/main/certificacion.png](https://github.com/Leonel-18/Leonel-18/blob/9da2486cc28364b449e9f17c4fcda4858a6fa88b/Certificado%20Rally%20BlackSun.jpg))
+
+![Certificación](https://github.com/Leonel-18/Leonel-18/blob/9da2486cc28364b449e9f17c4fcda4858a6fa88b/Certificado%20Rally%20BlackSun.jpg)
 
 ## 🔗 Key Projects
 

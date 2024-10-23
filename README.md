@@ -44,4 +44,4 @@ In addition to my work experience, I've participated in and won notable competit
 
 ## 📬 Contact Information
 
-- LinkedIn: [Leonel Álamo](https://www.linkedin.com/in/leonel-alamo-a80bb62b0)
+- LinkedIn: [Leonel Alamo](https://www.linkedin.com/in/leonel-alamo-a80bb62b0)

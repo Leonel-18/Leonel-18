@@ -42,10 +42,6 @@ In addition to my work experience, I've participated in and won notable competit
 
 ![Certificación](https://github.com/Leonel-18/Leonel-18/blob/9da2486cc28364b449e9f17c4fcda4858a6fa88b/Certificado%20Rally%20BlackSun.jpg)
 
-## 🔗 Key Projects
-
-You can view my full portfolio here: [**Portfolio Link**]()
-
 ## 📬 Contact Information
 
 - LinkedIn: [Leonel Álamo](https://www.linkedin.com/in/leonel-alamo-a80bb62b0)
